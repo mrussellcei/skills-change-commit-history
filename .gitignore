@@ -20,6 +20,9 @@
 *.tar
 *.zip
 
+# environment variables
+.env
+
 # Logs and databases #
 ######################
 *.log
